@@ -1,6 +1,2 @@
 # dotfiles
-Contains all the important dot files
-
-This is someting I want to add.
-
-Some other changes
+Contains all the important dot files that I might use on a new system.
